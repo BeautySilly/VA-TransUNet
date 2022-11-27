@@ -1,0 +1,5 @@
+https://huggingface.co/Visual-Attention-Network/VAN-Base-original/resolve/main/van_base_828.pth.tar
+
+https://huggingface.co/Visual-Attention-Network/VAN-Large-original/resolve/main/van_large_839.pth.tar
+
+Thanks to the author of VAN，MenghaoGuo.

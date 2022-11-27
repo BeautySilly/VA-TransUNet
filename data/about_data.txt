@@ -1,0 +1,1 @@
+Regarding the ACDC and Synapse datasets, our setup is consistent with TransUNet. So you can ask us or the author of TransUNet for them.
