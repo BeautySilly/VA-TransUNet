@@ -1,14 +1,12 @@
 # VA-TransUNet
 Study together
 
-If you are interested in our work please cite our paper at: "VA-TransUNet: A U-shaped Medical Image Segmentation Network with Visual Attention." 
-```bibtex
-@article{jiang2022va-transunet,
+@article{Jiang2022VATransUNetAU,
   title={VA-TransUNet: A U-shaped Medical Image Segmentation Network with Visual Attention},
-  author={Jiang Ting and Xu Tao and Li Xiaoning},
-  journal={ICCPR 2022},
-  year={2022}
+  author={Ting Jiang and Tao Xu and Xiaoning Li},
+  journal={Proceedings of the 2022 11th International Conference on Computing and Pattern Recognition},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:258834505}
 }
-```
 
 Building...
