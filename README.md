@@ -19,8 +19,9 @@ Study together
   pages={268},
 }
 ```
-##安装环境和运行
-##安装conda虚拟环境
+## 安装环境和运行
+
+## 安装conda虚拟环境
 ```
 conda create -n segunet python=3.6 
 ```
@@ -28,7 +29,7 @@ conda create -n segunet python=3.6
 ```
 conda activate segunet
 ```
-从torch官网选择对应版本的torch， 这根据你的服务器具体配置有所不同
+从torch官网选择对应版本的torch， 这根据您的服务器具体配置有所不同
 ```
 pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
 ```
@@ -36,7 +37,7 @@ pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f htt
 ```
 pip install tqdm h5py opencv-python scipy SimpleITK==2.0.0 medpy monai tensorboardX mmcv timm mmcv-full
 ```
-可能版本有所差异，这需要您仔细选择
+可能版本有所差异，这需要您仔细选择。有缺少某些库，您记得运行时及时pip对应库即可
 
 ## 关于预训练模型，您可以从
 ```
@@ -61,7 +62,7 @@ python test.py
 ```
 
 # 致谢
-非常感谢TransUNet的作者Jieneng Chen等人，向我们提供处理好的数据集。
+非常感谢TransUNet的作者Jieneng Chen等人，向我们提供处理好的数据集以及开源的模型。您可以看出，我们的代码是基于他们的项目的。
 
 非常感谢Visual Attention Network的作者Menghao Guo等人提供非常好的创意。
 
