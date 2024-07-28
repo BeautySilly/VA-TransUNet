@@ -71,13 +71,15 @@ python test.py
 # 其他
 后续待录用论文准备开源：
 ```
-@article{郭逸凡2024采用不对称聚焦加权,
-  title={采用不对称聚焦加权Dice损失分割腹部CT图像},
-  author={郭逸凡 and 林佳成 and 蒋婷},
-  journal={智能计算机与应用},
-  volume={?},
-  number={?},
-  pages={?},
+@article{ DLXZ202407003,
+author = { 郭逸凡 and  林佳成 and  潘济 and  蒋婷 },
+title = {采用不对称聚焦加权Dice损失分割腹部CT图像},
+journal = {智能计算机与应用},
+volume = {14},
+pages = {20-28},
+year = {2024},
+issn = {2095-2163},
+doi = {10.20169/j.issn.2095-2163.240703}
 }
 ```
 ### 合作者的其他论文（已开源）
