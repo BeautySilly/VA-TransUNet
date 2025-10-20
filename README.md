@@ -96,5 +96,14 @@ doi = {10.20169/j.issn.2095-2163.240703}
 ```
 https://github.com/MischiefGhostOgre/HyperSegUNet/
 ```
-我们后续的工作将研究配准而不是分割。
+我们后续的工作将研究配准而不是分割（个人觉得分割真的已经接近完蛋了...）。
 
+已录用，待刊登（等待开源）
+
+```
+[2] 郭逸凡,蒋婷,彭宽宽等.LSCA-RegNet:基于线性局部窗口交叉注意力机制的可变形图像配准网络[J].四川师范大学学报（自然科学版）,2026,?(?):?-?.
+```
+
+```
+https://github.com/MischiefGhostOgre/LSCARegNet
+```
