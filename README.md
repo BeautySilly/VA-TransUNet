@@ -69,7 +69,7 @@ python test.py
 
 
 # 其他
-后续待录用论文准备开源：
+已开源：
 ```
 @article{ DLXZ202407003,
 author = { 郭逸凡 and  林佳成 and  潘济 and  蒋婷 },
